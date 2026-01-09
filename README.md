@@ -5,6 +5,8 @@ A modern, responsive landing page built for **SellSharp**, an AI-powered sales i
 ## Overview
 This project showcases SellSharp’s features, offerings, target audience, and real-world use cases through a clean, component-based UI.
 
+## 🔗 GitHub Repository
+https://github.com/Yagnik70/sellsharp-landing
 ## Tech Stack
 - React + TypeScript
 - Vite
